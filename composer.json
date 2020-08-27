@@ -1,8 +1,11 @@
 {
+    "name": "accolon/logging",
+    "description": "Library of log",
     "require": {},
     "autoload": {
         "psr-4": {
             "Accolon\\Logging\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
